@@ -3,7 +3,7 @@ A Jupyter Notebook to read primary and secondary spinning reserve data from a .i
 ## Python script to read .csv with spinning reserve data from a .iso file
 
 ## 1. Description
-In El Salvador, the Dispatch Centre (Unidad de Transacciones, UT) delivers the operating data of the generators connected to the country transmisssion line, including data about the expenses incurred by renewable energy generators for not being able to provide the system with firm capacity (primary and secondary spinning reserve). 
+In El Salvador, the Dispatch Centre (Unidad de Transacciones, UT) delivers the operational data of the generators connected to the country transmisssion line, including data about the expenses incurred by renewable energy generators for not being able to provide the system with firm capacity (primary and secondary spinning reserve). 
 
 The operating data for each generator is posted in the generator's private section in a .iso file. This .iso file contains several folders, one of which includes the .csv file with data about primary and secondary spinning reserves.
 
